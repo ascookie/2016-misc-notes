@@ -1,6 +1,6 @@
-# 2016-misc-notes
+# Misc Notes
 
-*Delete folder command line*
+**Delete folder command line**
 
 `rm -rf folderName`
 
