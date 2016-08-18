@@ -9,3 +9,5 @@ FYI, you can use -f, -r, -v:
 * `-f` = to ignore non-existent files, never prompt
 * `-r` = to remove directories and their comtents recursively
 * `-v` = to explain what is being done
+
+**Check clearfix and BFC**
