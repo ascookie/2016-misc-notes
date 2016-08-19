@@ -11,3 +11,6 @@ FYI, you can use -f, -r, -v:
 * `-v` = to explain what is being done
 
 **Check clearfix and BFC**
+
+**Wordpress custom post type**
+https://codex.wordpress.org/Post_Types
