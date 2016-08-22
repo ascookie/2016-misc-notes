@@ -14,3 +14,5 @@ FYI, you can use -f, -r, -v:
 
 **Wordpress custom post type**
 https://codex.wordpress.org/Post_Types
+
+php or python, make a decision.
