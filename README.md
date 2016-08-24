@@ -16,3 +16,12 @@ FYI, you can use -f, -r, -v:
 https://codex.wordpress.org/Post_Types
 
 php or python, make a decision.
+
+<?php if( is_page_template('kids-dentist')) {
+       echo 'hihi';
+    }
+    else {
+        $page_template = get_page_template_slug();
+        echo $page_template;
+     }
+     ?>
