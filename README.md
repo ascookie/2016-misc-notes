@@ -25,3 +25,14 @@ php or python, make a decision.
         echo $page_template;
      }
      ?>
+
+
+<?php
+            if (is_active_sidebar('sidebar')){
+                echo "col-sm-9";
+            } else {
+                echo "col-sm-12";
+            }
+        ?>
+
+https://gist.github.com/scottmagdalein/259d878ad46ed6f2cdce
