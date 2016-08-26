@@ -36,3 +36,5 @@ php or python, make a decision.
         ?>
 
 https://gist.github.com/scottmagdalein/259d878ad46ed6f2cdce
+
+Forever Free Plan users can send up to 12 test emails per campaign, but no more than 24 total test emails in a 24-hour period. Tests can include up to six addresses at once.
