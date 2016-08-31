@@ -44,3 +44,4 @@ Forever Free Plan users can send up to 12 test emails per campaign, but no more 
   width: 100%;
 }
 
+$_POST['name'] is call name="" at the input field.
