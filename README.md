@@ -54,3 +54,10 @@ $_POST['name'] is call name="" at the input field.
 (3) understand HTTP response code.
 
 (4) understand sync and async (for AJAX and jquery framework)
+
+**flex-grow**
+it let img element grow big to cover in horizontal, the layout became flex
+div {
+  display: flex;
+  flex-wrap: wrap;
+}
