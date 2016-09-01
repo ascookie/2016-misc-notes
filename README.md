@@ -45,3 +45,12 @@ Forever Free Plan users can send up to 12 test emails per campaign, but no more 
 }
 
 $_POST['name'] is call name="" at the input field.
+
+**HTTP**
+(1) GET and POST. GET retrieve data from server. POST send data to server (question about picture upload)
+
+(2) HTTP is stateless, need extra mech to keep state ( like login in state, use cookie )
+
+(3) understand HTTP response code.
+
+(4) understand sync and async (for AJAX and jquery framework)
