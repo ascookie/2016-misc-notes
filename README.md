@@ -66,3 +66,9 @@ div {
 <script type="text/jsx" src=""></script>
 <script type="text/jsx">..</script>
 type is text/jsx
+
+**babel**
+<script type="text/babel" src=""></script>
+<script type="text/babel">..</script>
+include babel's browser.js and set label to text/babel
+<script src="https://npmcdn.com/babel-core@5.8.38/browser.min.js"></script>
