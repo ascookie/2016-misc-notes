@@ -61,3 +61,8 @@ div {
   display: flex;
   flex-wrap: wrap;
 }
+
+**JSXTransformer.js**
+<script type="text/jsx" src=""></script>
+<script type="text/jsx">..</script>
+type is text/jsx
