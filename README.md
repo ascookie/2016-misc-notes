@@ -76,3 +76,11 @@ include babel's browser.js and set label to text/babel
 **cmd sea.js**
 one module is one file
 define(factory)
+* if factory is an Object, String. the interface is the Object or String.
+* if factory is a function, 表示是模块的构造方法。执行该构造方法，可以得到模块向外提供的接口。factory默认会传入三个参数：require、exports 和 module。
+
+`//factory is an Object`
+`define({ "foo": "bar" });`
+
+`//factory is an function`
+`define(function(require, exports, module) { // module code });`
