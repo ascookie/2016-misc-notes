@@ -68,10 +68,11 @@ div {
 type is text/jsx
 
 **babel**
-<script type="text/babel" src=""></script>
-<script type="text/babel">..</script>
-include babel's browser.js and set label to text/babel
-<script src="https://npmcdn.com/babel-core@5.8.38/browser.min.js"></script>
+`<script type="text/babel" src=""></script>`
+`<script type="text/babel">..</script>`
+`include babel's browser.js and set label to text/babel`
+`<script src="https://unpkg.com/babel-core@5.8.38/browser.min.js"></script>`
+
 
 **cmd sea.js**
 one module is one file
@@ -84,3 +85,5 @@ define(factory)
 
 `//factory is an function`
 `define(function(require, exports, module) { // module code });`
+
+https://theeventscalendar.com/support/forums/topic/woo-tickets-adding-add-to-cart-functionality-outside-of-event-page/
