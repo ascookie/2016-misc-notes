@@ -68,11 +68,18 @@ div {
 type is text/jsx
 
 **babel**
+<<<<<<< HEAD
 `<script type="text/babel" src=""></script>`
 `<script type="text/babel">..</script>`
 `include babel's browser.js and set label to text/babel`
 `<script src="https://unpkg.com/babel-core@5.8.38/browser.min.js"></script>`
 
+=======
+<script type="text/babel" src=""></script>
+<script type="text/babel">..</script>
+include babel's browser.js and set label to text/babel
+<script src="https://unpkg.com/babel-core@5.8.38/browser.min.js"></script>
+>>>>>>> 06d156f1653066f667cf6842298c8ba5e2da7d80
 
 **cmd sea.js**
 one module is one file
