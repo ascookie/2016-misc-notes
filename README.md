@@ -103,3 +103,8 @@ Using a regular expression literal, which consists of a pattern enclosed between
 var re = /ab+c/;
 
 ```
+
+Or calling the constructor function of the *RegExp* Object, as follows:
+```
+var re = new RegExp("ab+c");
+```
