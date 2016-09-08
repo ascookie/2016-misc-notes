@@ -95,6 +95,10 @@ define(factory)
 
 https://theeventscalendar.com/support/forums/topic/woo-tickets-adding-add-to-cart-functionality-outside-of-event-page/
 
+可以从HTML&CSS学起，然后javascript，并用上面的例子学习创建一个主页。完成这些之后可以在PHP，Python或者Ruby中选一个学习（我个人推荐python），整个过程大概40学时左右，也就是你大学一个学期的一门课的量。然后使用这三门语言中的任意一种语言下的web框架（PHP的我不太清楚，python可以用Django，Ruby可以用Rail），按照官方文档的例子+模板完成一个个人博客，去万网购买一个一年期的域名（大概70块钱），再直接租一台小型的虚拟主机（一个月10块-20块不等），将这个网站放到虚拟主机上并向外服务，最后在上面转载10+篇以上编程相关的技术文章（总计要200学时左右，相当于大学一个学期的5门课）。
+然后去微软的office模板中心去下载一个看起来炫酷一点的简历模板，写上自己做这个网站用到的技术，并且在项目经验上写上使用XX语言1年，建有自己的网站，期望岗位是研发。最后将这份简历给20家公司投过去（网投就可以），等待面试通知。之后随便选一家公司，但记住在面试的最后阶段，一定要底气十足的要求薪资8K，13薪，5险一金，以及补助若干，如果对方比较主动，可以要1W。
+正式入职之后你的编程学习之路才正式开始，工作中需要用到什么技术就去买什么书，看什么网站，不会的地方就问同事。希望我的答案能帮助到你。
+
 **Regular Expression**
 
 Using a regular expression literal, which consists of a pattern enclosed between slashes, as follow
