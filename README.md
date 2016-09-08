@@ -94,3 +94,12 @@ define(factory)
 `define(function(require, exports, module) { // module code });`
 
 https://theeventscalendar.com/support/forums/topic/woo-tickets-adding-add-to-cart-functionality-outside-of-event-page/
+
+**Regular Expression**
+
+Using a regular expression literal, which consists of a pattern enclosed between slashes, as follow
+
+```
+var re = /ab+c/;
+
+```
