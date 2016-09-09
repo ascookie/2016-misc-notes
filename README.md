@@ -112,3 +112,10 @@ Or calling the constructor function of the *RegExp* Object, as follows:
 ```
 var re = new RegExp("ab+c");
 ```
+A regular expression pattern is composed of simple characters, such as /abc/, or combination of simple and special characters, such as /ab*c/ or /Chapter (\d+)\. \d*/. The last example includes parentheses which are used as a memory device. the match made with this part of the pattern is remembered for later use, as described in using parenthesized substring matches.
+
+*Using simple patterns*
+Simple patterns are constructed of characters for which you want to find a direct match. For example. the pattern /abc/ matches character combinations in strings only when exactly the characters 'abc' occur together and in that order.
+
+*Using special characters*
+When the search for a match requires something more than a direct match, such as finding one or more b's. or finding white space, the pattern includes special characters. For example, the pattern /ab*c/ matches any character combination in which a single 'a' is followed by zero or more 'b's (* means 0 or more occurrences of the preceding item) and then immediately followed by 'c'.
