@@ -119,3 +119,13 @@ Simple patterns are constructed of characters for which you want to find a direc
 
 *Using special characters*
 When the search for a match requires something more than a direct match, such as finding one or more b's. or finding white space, the pattern includes special characters. For example, the pattern /ab*c/ matches any character combination in which a single 'a' is followed by zero or more 'b's (* means 0 or more occurrences of the preceding item) and then immediately followed by 'c'.
+
+*js setting default values*
+```
+var name = otherName || "default";
+```
+
+Javascript has a ternary operator for conditional expressions
+```
+var allowed = ( age > 18 ) ? "yes" : "no";
+```
