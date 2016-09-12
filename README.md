@@ -129,3 +129,13 @@ Javascript has a ternary operator for conditional expressions
 ```
 var allowed = ( age > 18 ) ? "yes" : "no";
 ```
+
+validate numbers javascript
+in jquery, you can use IsNumeric
+
+js function
+```
+function isNumberic(n) {
+  return !isNaN(parseFloat(n)) && isFinite(n);
+}
+```
