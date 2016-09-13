@@ -139,3 +139,7 @@ function isNumberic(n) {
   return !isNaN(parseFloat(n)) && isFinite(n);
 }
 ```
+Prototype tool
+sketch and Photoshop/basic layout | Origami and Framer Js for prototype
+use Envato
+https://zhuanlan.zhihu.com/p/22332111?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
