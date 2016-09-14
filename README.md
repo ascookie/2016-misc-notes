@@ -143,3 +143,14 @@ Prototype tool
 sketch and Photoshop/basic layout | Origami and Framer Js for prototype
 use Envato
 https://zhuanlan.zhihu.com/p/22332111?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+
+
+The type of moduke defined in the main JavaScript file. Can be one or an array of the following strings:
+
+(1) globals: JavaScript module that adds to global namespace, using window.namespace or this.namespace syntax
+(2) amd: Javascript module compatible with AMD, like RequireJS, using define() syntax
+(3) node: JavaScript module compatible with node and CommonJS using module.exports syntax
+(4) es6: JavaScript module compatible with ECMAScript 6 modules, using export and import syntax
+(5) yui: JavaScript module compatible with YUI Modules, using YUI.add() syntax
+
+
