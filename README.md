@@ -156,3 +156,14 @@ The type of moduke defined in the main JavaScript file. Can be one or an array o
 
 Browser-sync very useful
 brower-sync start --files '.' --server
+
+The first rule we will examine comes from the most common case of function calls: standalone function invocation. Think of this this rule as the default catch-all rule when none of the other rules apply.
+
+Consider this code:
+
+function foo() {
+  console.log( this.a );
+}
+
+var a = 2
+foo(); //2
