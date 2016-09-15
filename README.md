@@ -154,3 +154,5 @@ The type of moduke defined in the main JavaScript file. Can be one or an array o
 (5) yui: JavaScript module compatible with YUI Modules, using YUI.add() syntax
 
 
+Browser-sync very useful
+brower-sync start --files '.' --server
