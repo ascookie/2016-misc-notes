@@ -167,3 +167,10 @@ function foo() {
 
 var a = 2
 foo(); //2
+
+https://github.com/sivan/javascript-style-guide/blob/master/es5/README.md
+use push to add value to the array
+```
+var someStack = [];
+
+someStack.push('abracd');
