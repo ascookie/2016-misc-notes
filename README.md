@@ -174,3 +174,24 @@ use push to add value to the array
 var someStack = [];
 
 someStack.push('abracd');
+````
+
+want to copy the whole array
+```
+var items = [];
+var len = items.length;
+var itemsCopy = [];
+
+itemsCopy = items.slice();
+```
+https://github.com/justjavac/12-javascript-quirks/blob/master/cn/8-array-like-objects.md
+
+change arguments to array
+```
+Array.prototype.slice.call(arguments)
+
+function trigger() {
+  var args = Array.prototype.slice.call(arguments)
+  ...
+}
+```
