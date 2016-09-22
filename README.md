@@ -115,6 +115,16 @@ https://theeventscalendar.com/support/forums/topic/woo-tickets-adding-add-to-car
 
 7. 当想实现某种页面效果，不过是样式或者是动画效果，第一反应不要自己动手写，99%的情况下有人写好了，并且代码会很不错，去参考别人的，不要重复造轮子。去哪找？google或者github
 
+-------------------
+学了几天HTML和CSS了，应该也有点成果了。打开IFE2015 task1，写个静态页面吧。
+
+https://github.com/ecomfe/spec  write formal code.
+
+2. JavaScript 这是至关重要的阶段。 强烈推荐《JavaScript高级程序设计（第3版）》，俗称红宝书。前七章是重中之重，必须反复阅读，直至完全理解，期间可配合其他书一起读。DOM，事件流，表单，JSON，Ajax与最后几章也相当重要。其余章节可以略读或跳过（比如浏览器嗅探，XML以及那些列举大量API的章节，完全可以用到再查）推荐《JavaScript语言精粹》，俗称蝴蝶书。超薄的一本，半天就可以看完。JavaScript是一门有很多坑的语言，我个人是喜欢把这些坑点全部搞清楚的，但这本书却避而不谈了，剩下的也就是所谓的“精粹”了。但清晰地过一遍知识点总是好的。
+强烈推荐《你不知道的JS》。精彩至极的一本书，将JavaScript的坑一网打尽。之前搞不懂的问题，比如闭包，this之类的都可以在这里找到答案。ES6也是必学的内容，推荐阮一峰老师的《ES6 标准入门》。但这本书以API居多，所以还是留个大概印象，以后写到类似的地方，查一查有没有ES6更简洁的写法就好，不必死记硬背。以及需要学会Webpack的使用，Babel和模块化就靠Webpack了。 不太推荐《JavaScript权威指南》，也就是犀牛书。那就是一本字典
+
+https://www.zhihu.com/question/32314049
+
 
 **Regular Expression**
 
