@@ -231,3 +231,41 @@ https://segmentfault.com/a/1190000006909250?hmsr=toutiao.io&utm_medium=toutiao.i
 https://www.zhihu.com/question/28008276
 
 https://www.zhihu.com/question/27018083
+
+Jquery Cookie
+
+Create session cookie:
+```
+$.cookie('name', 'value');
+```
+
+Create expiring cookie, 7 days from then:
+```
+$.cookie('name', 'value', {expires:7});
+```
+Create expiring cookie, valid across entire site:
+```
+$.cookie('name', 'value', { expires: 7, path: '/'});
+```
+
+Read cookie:
+```
+$.cookie('name'); // => "value"
+$.cookie('noting'); // => undefined
+```
+Read all avaiable cookies:
+$.cookie(); // => { "name": "value" }
+```
+Delete cookie:
+```
+$.removeCookie('name');  // => true
+$.removeCookie('nothing') // =>false
+
+//need to use the same attr (path, domain) as what the cookie was written with
+$.cookie('name', 'value', { path: '/'});
+// This won't work!
+$.removeCookie('name'); // => false
+// This will work!
+$.removeCookie('name', {path: '/'}); // => true
+```
+when deleteing a cookie, you must pass the exact same path, domain and secure options that were used to set the cookie, unless you're relying on the default options that is.
