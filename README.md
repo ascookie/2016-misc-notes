@@ -269,3 +269,29 @@ $.removeCookie('name'); // => false
 $.removeCookie('name', {path: '/'}); // => true
 ```
 when deleteing a cookie, you must pass the exact same path, domain and secure options that were used to set the cookie, unless you're relying on the default options that is.
+
+Sample media query
+
+@media screen and (max-width: 1367px) {
+
+}
+
+@media screen and (max-width: 1281px) {
+
+}
+
+@media screen and (max-width: 1025px) {
+
+}
+
+@media screen and (max-width: 961px) {
+
+}
+
+@media screen and (max-width: 641px) {
+
+}
+
+@media screen and (max-width: 481px) {
+
+}
