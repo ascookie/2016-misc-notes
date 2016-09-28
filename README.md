@@ -300,3 +300,8 @@ https://www.zhihu.com/question/50907897
 https://www.zhihu.com/question/50991824
 
 https://www.zhihu.com/question/50477368
+
+```
+$mkdir someDirectory<ENTER>
+$ cd !$
+```
