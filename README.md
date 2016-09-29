@@ -305,3 +305,14 @@ https://www.zhihu.com/question/50477368
 $mkdir someDirectory<ENTER>
 $ cd !$
 ```
+
+```
+function Cms(wordpressVersion, joomlaVersion) {
+  this.wVersion = wordpressVersion;
+  this.jVersion = joomlaVersion;
+}
+
+Cms.prototype.shoplifyVersion = 5;
+
+var n1 = new Cms('3.6', '6.3');
+```
