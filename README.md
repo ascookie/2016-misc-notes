@@ -319,3 +319,5 @@ var n1 = new Cms('3.6', '6.3');
 
 http://www.alloyteam.com/2014/02/optimized-articles-of-parallax-scrolling-love-story/
 http://stackoverflow.com/questions/20001584/parallax-scrolling-choppy
+
+http://nnattawat.github.io/flip/
