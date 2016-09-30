@@ -321,3 +321,4 @@ http://www.alloyteam.com/2014/02/optimized-articles-of-parallax-scrolling-love-s
 http://stackoverflow.com/questions/20001584/parallax-scrolling-choppy
 
 http://nnattawat.github.io/flip/
+http://codepen.io/stevenpersson/pen/sDGgF
