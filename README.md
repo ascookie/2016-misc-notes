@@ -322,3 +322,5 @@ http://stackoverflow.com/questions/20001584/parallax-scrolling-choppy
 
 http://nnattawat.github.io/flip/
 http://codepen.io/stevenpersson/pen/sDGgF
+
+http://www.jqueryscript.net/demo/Creating-Apple-Like-Fullscreen-One-Page-Scrolling-Website-with-jQuery/
