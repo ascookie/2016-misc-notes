@@ -246,6 +246,7 @@ $.cookie('name', 'value', {expires:7});
 Create expiring cookie, valid across entire site:
 ```
 $.cookie('name', 'value', { expires: 7, path: '/'});
+
 ```
 
 Read cookie:
@@ -329,3 +330,6 @@ garnik atavita
 
 Parama P
 parama
+我的经验是每到一个地方工作，不管是实习还是正式工作，都一定要记得找一到两个人
+: 沟通好将来给你做r e ference。离开后每年圣诞节寄个贺卡啥，一是祝福二是让别人记
+: 住你。千万别埋头苦干，做什么最重要的都还是做人！
