@@ -324,3 +324,8 @@ http://nnattawat.github.io/flip/
 http://codepen.io/stevenpersson/pen/sDGgF
 
 http://www.jqueryscript.net/demo/Creating-Apple-Like-Fullscreen-One-Page-Scrolling-Website-with-jQuery/
+Garnik Bayatyan
+garnik atavita
+
+Parama P
+parama
