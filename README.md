@@ -433,5 +433,71 @@ why life is so hard.
     -webkit-text-fill-color: transparent;
   }
   ```
+------------------------
+ 一上来就开始问问题，我问需不需要做自我介绍，面试官说不用。因为当时有点紧张，具体问了啥问题可能不太记得清，挑记得的说。
 
+1、Array的unshift() method的作用是什么？如何连接两个Array？如何在Array里移除一个元素？
+——很简单，就不解释了。
+2、用纸笔写一个Closure，任意形式和内容。
+——可以用Anonymous function来写，也很简单。
+3、知不知道Array-like Object？
+——比如arguments或者DOM elements collection(queried by selectors)
+4、如何用Native JavaScript来读写Cookie？
+——这个忘了，没答出来。
+5、知不知道CSS Box-model？
+——很简单，顺便说了下IE6的差别。
+6、如何做一个AJAX Request？
+——说了一下XMLHttpRequest基本用法。
+7、Cross-domain access有没有了解？
+——说了一下JSONP和Preflight request
+8、前端安全方面有没有了解？XSS和CSRF如何攻防？
+——XSS的攻防不太清楚，CSRF说了一些，主要是every user can have a unique session id that will be cleared and regenerated every session to identify uniqueness.
+9、HTTP Response的Header里面都有些啥？
+——其实有好多，但只说了Content-Type和Cross-domain access的一些header properties。
+10、知不知道HTTP2？
+——没答出来。
+11、输入URL后发生了什么？
+——DNS解析，定位Server，检查Default HTTP Port，TCP Three-way handshakes，HTTP Request，HTML Tokenization and DOM Tree building，CSSOM building and JavaScript execution，最后是Render Tree building, layouts calling and style recaluculating……说实话说到这里还没说完，但面试官叫住我，说：不用说了我知道你啥意思……
+12、new operator实际上做了什么？
+——Call constructor and allocate memory然后是连接object和它本身的prototype最后return this(conceptually)
+……
+
+第一面实际上持续了大概半个多小时到四十分钟，聊了不少，面试官人很好。
+
+第二面：
+
+1、自我介绍。
+2、面向对象的属性有哪些？
+——这题本来是知道的，但一开始没理解面试官的意思，讲了object的methods和states，面试官笑了打断了我，重复了问题，我吓了一跳，然后重新说polymorphism和inheritance，然后一下子懵逼，面试官后来才说还有一个encapsulation（这个真是一下懵了，很简单的问题）。
+3、做一个两栏布局，左边fixed width，右边responsive，用纸笔手写。
+——写了flexbox和float两种实现。
+4、讲一下AJAX Request。
+——说了IE9 Compatibility solution和正常的XMLHttpRequest，包括Cross-domain时候可修改的header properties。
+5，讲一下Cross-domain access。
+——就是瞎扯了一些之前一面说过的，加上了preflight request的解释。
+6，介绍一下做过的项目。
+——介绍了其中一个用JavaScript实现的游戏引擎。
+……
+
+可能还有其他，记不得了。这次面试只持续了十分钟左右，本来以为要挂，结果刚有这个念头，面试官就告诉我，去准备hr面吧，吓我一大跳。
+
+HR面：
+
+主要是问实习的经历，实习的内容，对网易的看法，为什么想来网易，以后的想法和发展，如果拿了offer后要求提前实习的话可不可以，等等……主要是闲聊，没有什么特别具体的问题。最后让我问问题，我问了下有没有住宿补助的事情，最后没谈薪资，不过不清楚这是不是淘汰点。【更新：有没有问薪资并没有关系】
+
+
+感想：
+
+如果要说这次收到offer的重点，我还真不好说，很多很厉害的人也挂了，不太清楚原因是什么。
+
+但我自己一直坚持的做法是：全英文学习。从自学开始到现在，我基本不看中文的资料。这种做法给我最大的帮助就是我能很快的跟上最新的潮流，高水平的演讲和课程我能无障碍听懂，英文技术社区比如StackOverflow我无障碍交流和阅读，在上面也提过问题跟别人交流过，给我的帮助很大。这种习惯甚至往下到代码风格，注释风格，命名风格，都有很大影响（每次看到有人用拼音来写variable names我就很无语）。所以我个人强烈推荐这种做法。我以后依旧会继续坚持。
+
+然而这种做法是有弊端的：中文术语不熟悉。经过这次面试我找了很多面经，期间接触了很多中文术语，这才学到了很多英文术语的中文翻译。
+
+大家一起努力加油！
+
+大家有兴趣可以看看我的：
+个人主页： Andyrightnow.github.io
+Github： https://github.com/AndyRightNow
+技术博客： Andyrightnow.blogspot.com（需要VPN）
 
