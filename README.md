@@ -531,4 +531,8 @@ jquery怎么写插件
 
 看着问题好像不多也挺基础，扩展了一些，还是面了一个小时，我觉得我不至于挂在一面，虽然全程都在扯,说我css答的不好我说我几个月没写过css了。。。总体评价还不错
 
+凑巧我这学期选了 Viterbi 的 CSCI 571，这门课会把前端所有必要的基础知识全过一遍，课程的网址是 http://cs-server.usc.edu:45678，大纲如下：
+HTML CSS XML JavaScript DOM 表单处理 HTTP PHP Cookies 交互设计 Ajax JSON JQuery FireFox Firebug JavaScript 框架 Web APIs 网站性能 网络安全
+iOS/Android/WP 应用开发
 
+课程网站上有非常非常详细的资源，每节课都还提供了 http://Lynda.com 上相应的视频
