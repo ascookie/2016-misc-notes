@@ -538,3 +538,5 @@ iOS/Android/WP 应用开发
 课程网站上有非常非常详细的资源，每节课都还提供了 http://Lynda.com 上相应的视频
 
 http://www.tabi-o-ji.com 新干线
+
+https://zhuanlan.zhihu.com/p/22800583?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
