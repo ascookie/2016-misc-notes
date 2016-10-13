@@ -549,3 +549,4 @@ https://zhuanlan.zhihu.com/p/22800583?hmsr=toutiao.io&utm_medium=toutiao.io&utm_
 8、不要理会和你说中文的人
 9、去厕所别把厕所拖鞋穿出来
 10、提前买3g卡 wifi不普遍
+东京停留，不想去别处的，可以直接去东京都内，位于台场的大江户温泉，人家还有中文页面, 伊豆
