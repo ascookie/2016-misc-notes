@@ -540,3 +540,12 @@ iOS/Android/WP 应用开发
 http://www.tabi-o-ji.com 新干线
 
 https://zhuanlan.zhihu.com/p/22800583?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+
+1、函馆山夜景真是大赞 太美了 眼泪都留下来
+2、长崎的强蹦面不错
+5、小guest hostel可以租自行车 可以多利用 还有厨房可以煮早饭和宵夜
+6、不要看国内攻略 到了日本去书店或是二手书店都可以找到最新的
+7、预算有限又想吃的好点 晚一点去超市地下楼买对折或三折便当 也别太晚去 晚了就没了
+8、不要理会和你说中文的人
+9、去厕所别把厕所拖鞋穿出来
+10、提前买3g卡 wifi不普遍
