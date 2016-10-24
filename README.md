@@ -541,17 +541,4 @@ http://www.tabi-o-ji.com 新干线
 
 https://zhuanlan.zhihu.com/p/22800583?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 
-1、函馆山夜景真是大赞 太美了 眼泪都留下来
-2、长崎的强蹦面不错
-5、小guest hostel可以租自行车 可以多利用 还有厨房可以煮早饭和宵夜
-6、不要看国内攻略 到了日本去书店或是二手书店都可以找到最新的
-7、预算有限又想吃的好点 晚一点去超市地下楼买对折或三折便当 也别太晚去 晚了就没了
-8、不要理会和你说中文的人
-9、去厕所别把厕所拖鞋穿出来
-10、提前买3g卡 wifi不普遍
-东京停留，不想去别处的，可以直接去东京都内，位于台场的大江户温泉，人家还有中文页面, 伊豆
-
-尤其是和歌山的紀伊勝浦，那边的温泉都是近海温泉，想象一下泡着温泉感受海浪的拍打/早晨泡着温泉眺望太平洋(*ﾟ▽ﾟ*)
-
-https://www.facebook.com/business/help/328988437301229
-http://webcache.googleusercontent.com/search?q=cache:99ZTsa8-g2UJ:https://www.zhihu.com/question/19563808&num=1&hl=en&gl=us&strip=1&vwsrc=0
+GET /index.html Get instruction for HTTP 0.9
