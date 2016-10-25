@@ -542,3 +542,9 @@ http://www.tabi-o-ji.com 新干线
 https://zhuanlan.zhihu.com/p/22800583?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 
 GET /index.html Get instruction for HTTP 0.9
+
+//HTTP 1.0
+GET / HTTP/1.0
+Host: kamranahmed.info
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5)
+Accept: */*
